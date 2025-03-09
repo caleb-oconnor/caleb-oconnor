@@ -1,4 +1,4 @@
-Algorithm developmet/Machine learning
+Algorithm development/Machine learning
 
 <!---
 caleb-oconnor/caleb-oconnor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
